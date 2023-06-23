@@ -1,2 +1,3 @@
 # Zines
-mirror of my favourite hacking Zines for the lulz and nostalgy
+
+forked from an old fdiskyou repo and trying to keep it updated
